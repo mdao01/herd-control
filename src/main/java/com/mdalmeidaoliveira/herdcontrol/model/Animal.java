@@ -19,4 +19,5 @@ public class Animal {
     private String sex;
     private String breed;
     private String weight;
+    private String description;
 }
